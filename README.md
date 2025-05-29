@@ -1,4 +1,4 @@
-Porfolio Page for Evan Poe
+Porfolio Page for Chavis Yang
 
 Live Site:
-https://evanpoe.github.io/portfolio/
+https://chavisyang.github.io/portfolio/
